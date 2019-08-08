@@ -15,5 +15,9 @@ sudo apt update
 # install sublime-merge
 sudo apt install -y sublime-merge
 
+echo
+
+echo '"smerge" is now on the path'
+
 # remove yourself
 rm $0
